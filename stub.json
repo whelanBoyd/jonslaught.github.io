@@ -39,7 +39,8 @@
       "api_name": "test_it_out_button_optimizely_landing_page_",
       "project_id": 5935064,
       "id": 4111918521,
-      "event_type": "click"
+      "event_type": "click",
+      "isPrimary": true
     },
     {
       "id": 4135394367,
@@ -53,8 +54,7 @@
       "name": "Overall Revenue",
       "event_type": "revenue",
       "kind": "revenue",
-      "id": -1,
-      "isPrimary": true
+      "id": -1
     }
   ],
   "results": {
