@@ -152,15 +152,15 @@
                 "baseline": {
                   "sessions": 11043,
                   "revenue": 2510600,
-                  "revenuePerSession": 227.34764103957
+                  "revenuePerSession": 224.34764103957
                 },
                 "variation": {
                   "sessions": 209980,
                   "revenue": "4.71902E7",
-                  "revenuePerSession": 224.73664158491,
+                  "revenuePerSession": 227.73664158491,
                   "revenuePerSessionLift": {
-                    "value": -0.01148461203609,
-                    "significance": 0.20041331191007,
+                    "value": 0.01148461203609,
+                    "significance": 0.97041331191007,
                     "confidenceInterval": [
                       -0.14576414152761,
                       0.050766782775911
@@ -205,7 +205,7 @@
                   "variationId": 4126972451,
                   "revenuePerSessionLift": {
                     "value": 0.70368121749337,
-                    "significance": 0,
+                    "significance": 0.98,
                     "confidenceInterval": [
                       -7.334807509784,
                       7.8183985722435
