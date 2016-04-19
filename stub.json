@@ -56575,13 +56575,13 @@
                       "isSignificant": false
                     },
                     "totalRevenueIncrease": {
-                      "value": 92453.488372093,
+                      "value": -921453.488372093,
                       "significance": 0,
                       "confidenceInterval": [
                         -254497.8524796,
                         439404.82922379
                       ],
-                      "isSignificant": false
+                      "isSignificant": true
                     }
                   }
                 }
@@ -56738,7 +56738,7 @@
                       "isSignificant": true
                     },
                     "totalRevenueIncrease": {
-                      "value": 681822.22222222,
+                      "value": 6818422.22222222,
                       "significance": 0.99999999999222,
                       "confidenceInterval": [
                         398041.58269172,
@@ -56901,13 +56901,13 @@
                       "isSignificant": false
                     },
                     "totalRevenueIncrease": {
-                      "value": 366847.69874477,
+                      "value": 3661847.69874477,
                       "significance": 0,
                       "confidenceInterval": [
                         -534788.11837368,
                         1268483.5158632
                       ],
-                      "isSignificant": false
+                      "isSignificant": true
                     }
                   }
                 }
