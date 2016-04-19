@@ -304,12 +304,12 @@
         "results": {
           "totalSessions": 678754,
           "campaignSessions": 732138,
-          "audienceVariationSessions": 209980,
-          "audienceBaselineSessions": 11043,
+          "audienceVariationSessions": 389497,
+          "audienceBaselineSessions": 20499,
           "campaignReach": 0.82563049352195,
           "audienceBaselineReach": 0.04996312600951,
-          "audienceSessions": 221023,
-          "audienceReach": 0.37,
+          "audienceSessions": 409997,
+          "audienceReach": 0.56,
           "audienceVariationReach": 0.95003687399049
         }
       },
@@ -56543,8 +56543,8 @@
             "reach": {
               "totalSessions": 556670,
               "campaignSessions": 194621,
-              "audienceVariationSessions": 2379,
-              "audienceBaselineSessions": 129,
+              "audienceVariationSessions": 23793,
+              "audienceBaselineSessions": 1294,
               "audienceReach": 0.012886584695382,
               "audienceSessions": 2508,
               "audienceVariationReach": 0.94856459330144,
@@ -56557,16 +56557,16 @@
                   "baseline": {
                     "sessions": 129,
                     "revenue": 7800,
-                    "revenuePerSession": 60.46511627907
+                    "revenuePerSession": 99.327448507776
                   },
                   "4133294308-4142230430": {
-                    "sessions": 2379,
+                    "sessions": 23793,
                     "revenue": 236300,
-                    "revenuePerSession": 99.327448507776,
+                    "revenuePerSession": 60.46511627907,
                     "audienceId": 4133294308,
                     "variationId": 4142230430,
                     "revenuePerSessionLift": {
-                      "value": 38.862332228707,
+                      "value": -38.862332228707,
                       "significance": 0.99999999999222,
                       "confidenceInterval": [
                         -106.97681903304,
@@ -56706,9 +56706,9 @@
             "reach": {
               "totalSessions": 556670,
               "campaignSessions": 194621,
-              "audienceVariationSessions": 3560,
-              "audienceBaselineSessions": 216,
-              "audienceReach": 0.019401811726381,
+              "audienceVariationSessions": 35609,
+              "audienceBaselineSessions": 2162,
+              "audienceReach": 0.19401811726381,
               "audienceSessions": 3776,
               "audienceVariationReach": 0.94279661016949,
               "audienceBaselineReach": 0.057203389830508,
@@ -56869,9 +56869,9 @@
             "reach": {
               "totalSessions": 556670,
               "campaignSessions": 194621,
-              "audienceVariationSessions": 4526,
-              "audienceBaselineSessions": 239,
-              "audienceReach": 0.024483483282893,
+              "audienceVariationSessions": 45261,
+              "audienceBaselineSessions": 2392,
+              "audienceReach": 0.24483483282893,
               "audienceSessions": 4765,
               "audienceVariationReach": 0.9498426023085,
               "audienceBaselineReach": 0.050157397691501,
