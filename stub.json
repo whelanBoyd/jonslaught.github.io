@@ -159,11 +159,11 @@
                   "revenue": "4.71902E7",
                   "revenuePerSession": 227.73664158491,
                   "revenuePerSessionLift": {
-                    "value": 0.01148461203609,
+                    "value": 0.3215461203609,
                     "significance": 0.9999992,
                     "confidenceInterval": [
-                      0.004576414152761,
-                      0.0150766782775911
+                      0.1576414152761,
+                      0.490766782775911
                     ],
                     "isSignificant": true
                   }
@@ -56308,7 +56308,7 @@
                     "audienceId": 4124786017,
                     "variationId": 4134591994,
                     "revenuePerSessionLift": {
-                      "value": 5.4741870151706,
+                      "value": 1.4741870151706,
                       "significance": 0.99999999999222,
                       "confidenceInterval": [
                         -202.49262762218,
