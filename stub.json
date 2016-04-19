@@ -160,10 +160,10 @@
                   "revenuePerSession": 227.73664158491,
                   "revenuePerSessionLift": {
                     "value": 0.01148461203609,
-                    "significance": 0.97041331191007,
+                    "significance": 0.9999992,
                     "confidenceInterval": [
-                      -0.14576414152761,
-                      0.050766782775911
+                      0.004576414152761,
+                      0.0150766782775911
                     ],
                     "isSignificant": true
                   }
