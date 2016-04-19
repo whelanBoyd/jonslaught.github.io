@@ -35,18 +35,17 @@
       "description": null,
       "created": "2015-12-09T01:23:10.533500Z",
       "view_id": 4135394367,
-      "name": "Test it out (button) Optimizely Landing Page ",
+      "name": "Added to Cart",
       "api_name": "test_it_out_button_optimizely_landing_page_",
       "project_id": 5935064,
       "id": 4111918521,
       "event_type": "click",
-      "isPrimary": true
     },
     {
       "id": 4135394367,
       "project_id": 5935064,
       "api_name": "4135394367",
-      "name": "Visit Page: https:\/\/www.optimizely.com\/",
+      "name": "Purchased",
       "category": "view_activated",
       "kind": "view"
     },
@@ -54,7 +53,8 @@
       "name": "Overall Revenue",
       "event_type": "revenue",
       "kind": "revenue",
-      "id": -1
+      "id": -1,
+      "isPrimary": true
     }
   ],
   "results": {
@@ -165,7 +165,7 @@
                       -0.14576414152761,
                       0.050766782775911
                     ],
-                    "isSignificant": false
+                    "isSignificant": true
                   }
                 }
               }
@@ -210,7 +210,7 @@
                       -7.334807509784,
                       7.8183985722435
                     ],
-                    "isSignificant": false
+                    "isSignificant": true
                   }
                 }
               }
@@ -303,13 +303,13 @@
         },
         "results": {
           "totalSessions": 678754,
-          "campaignSessions": 221023,
+          "campaignSessions": 732138,
           "audienceVariationSessions": 209980,
           "audienceBaselineSessions": 11043,
           "campaignReach": 0.32563049352195,
           "audienceBaselineReach": 0.04996312600951,
           "audienceSessions": 221023,
-          "audienceReach": 1,
+          "audienceReach": 0.37,
           "audienceVariationReach": 0.95003687399049
         }
       },
@@ -56191,12 +56191,12 @@
                     "variationId": 4142230430,
                     "revenuePerSessionLift": {
                       "value": -0.48539104205954,
-                      "significance": 0.13918916128745,
+                      "significance": 0.93918916128745,
                       "confidenceInterval": [
                         -1.3870645597799,
                         0.31658349067475
                       ],
-                      "isSignificant": false
+                      "isSignificant": true
                     }
                   }
                 }
