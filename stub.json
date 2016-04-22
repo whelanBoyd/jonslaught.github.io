@@ -29,8 +29,7 @@
       "name": "Overall Revenue",
       "event_type": "revenue",
       "kind": "revenue",
-      "id": -1,
-      "isPrimary": true
+      "id": -1
     },
     {
       "category": "convert",
@@ -46,7 +45,8 @@
       "api_name": "test_it_out_button_optimizely_landing_page_",
       "project_id": 5935064,
       "id": 4111918521,
-      "event_type": "click"
+      "event_type": "click",
+      "isPrimary": true
     },
     {
       "id": 4135394367,
@@ -63,9 +63,9 @@
         "queryKey": {
           "begin": "2015-12-16T00:00:00+00:00",
           "end": "2016-04-04T00:00:00+00:00",
-          "primaryMetric": "revenue",
+          "primaryMetric": "convert|test_it_out_button_optimizely_landing_page_",
           "secondaryMetrics": {
-            "convert|test_it_out_button_optimizely_landing_page_": "convert|test_it_out_button_optimizely_landing_page_",
+            "revenue": "revenue",
             "view_activated|4135394367": "view_activated|4135394367"
           },
           "tertiaryMetrics": {
