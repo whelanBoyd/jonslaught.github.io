@@ -26,6 +26,12 @@
   ],
   "events": [
     {
+      "name": "Overall Revenue",
+      "event_type": "revenue",
+      "kind": "revenue",
+      "id": -1
+    },
+    {
       "category": "convert",
       "event_filter": {
         "filter_type": "target_selector",
@@ -49,12 +55,6 @@
       "name": "Purchased",
       "category": "view_activated",
       "kind": "view"
-    },
-    {
-      "name": "Overall Revenue",
-      "event_type": "revenue",
-      "kind": "revenue",
-      "id": -1
     }
   ],
   "results": {
