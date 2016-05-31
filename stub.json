@@ -9,7 +9,7 @@
   },
   "audiences": [
     {
-      "name": "Kitchen & Dining Shoppers",
+      "name": "Bedroom Shoppers",
       "id": 4133294308,
       "variation_id": 4142230430
     },
@@ -19,7 +19,7 @@
       "variation_id": 4134591994
     },
     {
-      "name": "Bedroom Shoppers",
+      "name": "Kitchen & Dining Shoppers",
       "id": 4135810959,
       "variation_id": 4126972451
     }
