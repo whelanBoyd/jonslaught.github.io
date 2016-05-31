@@ -9,17 +9,17 @@
   },
   "audiences": [
     {
-      "name": "Hikers",
+      "name": "Kitchen & Dining Shoppers",
       "id": 4133294308,
       "variation_id": 4142230430
     },
     {
-      "name": "Cold Climates",
+      "name": "Home Office Shoppers",
       "id": 4124786017,
       "variation_id": 4134591994
     },
     {
-      "name": "Shoe Shoppers",
+      "name": "Bedroom Shoppers",
       "id": 4135810959,
       "variation_id": 4126972451
     }
